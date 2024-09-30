@@ -1,4 +1,4 @@
-public class autonrobot {
+public class First {
     public void moveForward() {
         System.out.println("The robot is moving forward.");
     }
@@ -17,3 +17,4 @@ public class autonrobot {
         robot.turnLeft();
         robot.stop();
     }
+}
